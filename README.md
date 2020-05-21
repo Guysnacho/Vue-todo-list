@@ -1,5 +1,5 @@
-# todo
-Finished
+# Ending Comments
+Few headaches with outdated instructions but here's a finished todolist web app using Vue, Vue-Router, Axios, and JSONPlaceholder for dummy todolist items
 ## Project setup
 ```
 npm install
